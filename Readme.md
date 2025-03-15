@@ -1,3 +1,4 @@
+### NOTE: Because of the size of the jupyternotebook file a html is provided which needs to be downloaded.
 ## Loan Dataset Variable Definitions
 
 | Variable | Definition |
